@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/baguette/static/css/main.628cc5eb.css",
+    "main.js": "/baguette/static/js/main.f081f6a4.js",
+    "static/js/453.0f914e73.chunk.js": "/baguette/static/js/453.0f914e73.chunk.js",
+    "index.html": "/baguette/index.html",
+    "main.628cc5eb.css.map": "/baguette/static/css/main.628cc5eb.css.map",
+    "main.f081f6a4.js.map": "/baguette/static/js/main.f081f6a4.js.map",
+    "453.0f914e73.chunk.js.map": "/baguette/static/js/453.0f914e73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.628cc5eb.css",
+    "static/js/main.f081f6a4.js"
+  ]
+}
